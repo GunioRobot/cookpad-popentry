@@ -5,7 +5,7 @@
   text-align: left;
 }
 
-#content { 
+#content {
   float: left;
   width: 589px;
   height: 100%;
@@ -14,13 +14,13 @@
 }
 
 #content[id] {
-  height: auto;  
+  height: auto;
   background: url(../img/bg/content.png) repeat-y top center;
 }
 
 #header {
-  padding: 60px 0 2em 49px;  
-  background: url(../img/bg/header.jpg) no-repeat top center;  
+  padding: 60px 0 2em 49px;
+  background: url(../img/bg/header.jpg) no-repeat top center;
 }
 
 * html #header {
@@ -30,7 +30,7 @@
 #header h1,
 #header h2 {
   margin: 0;
-  padding: 0;  
+  padding: 0;
   background: none;
 }
 
@@ -41,13 +41,13 @@
   color: #6E310B;
 }
 
-#page {  
+#page {
   float: left;
-  clear: both;   
+  clear: both;
   width: 491px !important;
   width: 100%;
-  
-  padding: 2em 49px;  
+
+  padding: 2em 49px;
 }
 
 .width100 {
@@ -99,11 +99,11 @@
 }
 
 .big {
-  font-size: 1.3em;  
+  font-size: 1.3em;
 }
 
 .small {
-  font-size: 0.85em;  
+  font-size: 0.85em;
 }
 
 .bold {
@@ -143,7 +143,7 @@
 }
 
 img.left {
-	float: left; 
+	float: left;
 	margin-right: 1em;
 	margin-bottom: 1em;
 }
